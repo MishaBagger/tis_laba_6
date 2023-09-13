@@ -1,0 +1,11 @@
+{
+  "name": "nodemon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "greeting.js",
+  "scripts": {
+    "test": "nodemon script.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
